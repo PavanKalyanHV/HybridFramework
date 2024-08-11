@@ -1,0 +1,9 @@
+2024-08-10 15:59:16 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Users\Pavankalyanhv\HybridFramework\pom.xml] otherwise TestNG may fail or not work as expected.
+2024-08-10 16:00:49 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****
+2024-08-10 16:01:09 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****
+2024-08-10 16:01:31 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****
+2024-08-10 16:01:52 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****
+2024-08-10 18:15:24 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****
+2024-08-10 18:15:45 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****
+2024-08-10 18:16:06 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****
+2024-08-10 18:16:27 INFO  TC003_LoginDataDrivenTest:17 - **** Starting TC003_LoginDataDrivenTest ****

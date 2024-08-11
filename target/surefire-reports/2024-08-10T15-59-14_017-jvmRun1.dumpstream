@@ -1,0 +1,3 @@
+# Created at 2024-08-10T15:59:16.621
+java.lang.NullPointerException: Cannot invoke "org.testng.xml.XmlSuite.setParsed(boolean)" because "currentXmlSuite" is null
+
